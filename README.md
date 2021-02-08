@@ -1,4 +1,4 @@
-# Containerized Web Scraping Development Enivornment
+# Containerized Web Scraping Development Environment
 
 This project provides a basic dockerized development environment for web scraping, based on Python
 
